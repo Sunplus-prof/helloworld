@@ -3,4 +3,5 @@
 
 
 class Dep:
-    pass
+    def print():
+        pass
